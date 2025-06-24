@@ -1,0 +1,19 @@
+Sample - Superstore.csv
+1. Data is displayed in a table format
+2. Column headers included are: Order ID, Order Date, Ship Date, Ship Mode, Customer ID, Customer Name, Segment, Country, City, State, Region, Product ID, Category, Sub-Category, Product Name, Sales, Quantity, Discount, and Profit
+
+dashboard
+1. Overview: Sales, Profit, Region
+2. Sales  Analysis : Sub-Category, time
+3. Profitability Analysis : region, category, Sub-Category
+4. Geographical Analysis : Region, Category, Sub-Category, Product Name, Sales, Quantity, Discount, and Profit
+
+5. Conclusion:
+
+Observation 1: Overall sales growth is exceptionally strong.
+Observation 2: Technology dominates as the leading sales category, while office supplies are significantly lagging.
+Observation 3: The West Region is generating impressive profits, while the Central Region is facing critical challenges with low profitability.
+Recommendation / Further Action: We must take immediate action to uncover the reasons behind the disappointing sales in office supplies, focusing intently on essential factors such as our marketing strategies and pricing approaches. 
+Furthermore, a comprehensive analysis of the Central Region is crucial to pinpoint and rectify the underlying profit issues, which could include excessive discounts, high shipping costs, or specific unprofitable products. We must address these challenges decisively to enhance our overall profitability.
+
+
